@@ -7,5 +7,10 @@
 
 // TODO: Test your function by calling it with different names
 // Example: console.log(greetPerson("Alice"));
+function greetPerson(name){
+    return ("Hello, "+ name + "! Welcome to programming!");
+}
 
-console.log("Replace this with your solution!");
+console.log(greetPerson("Alice"));
+console.log(greetPerson("Bob"));
+console.log(greetPerson("Carol"));

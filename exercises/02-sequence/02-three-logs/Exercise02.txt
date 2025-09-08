@@ -1,0 +1,6 @@
+1: brödet skärs
+2: mackan smöras
+3: din macka är färdig
+
+ja, det blir förvirrande om ordningen blir fel
+det är en kalkylator som visar resultatet av uträkningen

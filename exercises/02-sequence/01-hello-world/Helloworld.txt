@@ -1,0 +1,7 @@
+mata ut hello world i konsolen
+jag kommer se output
+öppna munnen, säg hej, stäng munnen, öppna munnen, säg värld
+skriv hello world i konsolen dator
+programmet skulle inte alls fungera
+texten hello world
+det skulle behövas en variabel som lades till i print funktionen

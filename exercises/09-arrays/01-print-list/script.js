@@ -12,5 +12,11 @@
 
 // TODO: Display the total count at the end
 // Example: console.log("Total items: " + items.length);
+const MyArray = ["apple", "banana", "orange", "grape", "kiwi"]
 
-console.log("Replace this with your solution!");
+for(i = 0; i < MyArray.length; i++){
+    console.log((i + 1) + ". " + MyArray[i]);
+}
+
+// Display the total count at the end
+console.log("Total items: " + MyArray.length);

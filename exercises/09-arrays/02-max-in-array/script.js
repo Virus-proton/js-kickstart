@@ -10,5 +10,14 @@
 
 // TODO: Test your function by calling it with different arrays
 // Example: console.log(findMax([3, 7, 2, 9, 1])); // Should output: 9
+function findMax(numbers){
+    let CurMax = 0;
 
-console.log("Replace this with your solution!");
+    for( i = 0; i < numbers.length; i++)
+        if (numbers[i] > CurMax)
+            CurMax = numbers[i];
+
+    return CurMax;
+}
+
+console.log(findMax([1, 5, 7, 56, 35, 87]));
