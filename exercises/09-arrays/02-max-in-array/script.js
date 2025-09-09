@@ -21,3 +21,5 @@ function findMax(numbers){
 }
 
 console.log(findMax([1, 5, 7, 56, 35, 87]));
+
+//bakachina från laptop
